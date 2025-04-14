@@ -1,1 +1,1 @@
-# Kaggle_Miniproject_1
+# CNN Cancer Detection
